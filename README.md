@@ -36,7 +36,7 @@ In app.js of server, set port number to ```8003``` and then type ```nodemon app.
 
 Here we are using ```MongoDB ATLAS``` as our database and a free cluster. You can set a cluster in ATLAS and use the connection string to connect to the database with the following Schema:
 ```
-name: {
+  name: {
     type: "string",
     required: true,
   },
