@@ -1,4 +1,7 @@
 ```Repo Link:https://github.com/s0hamsaha/crudapp```
+
+**Technology Stack Used - MongoDB, ExpressJs, NodeJs, Reactjs**
+
 # Steps to start the application:
 Clone the repository or unzip this project in a new folder
 
